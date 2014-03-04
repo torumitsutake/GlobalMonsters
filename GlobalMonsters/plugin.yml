@@ -1,0 +1,8 @@
+name: GlobalMonsters
+main: com.gmail.sitoa.GlobalMonsters.GlobalMonsters
+version: 1.0.0
+
+commands:
+     gm:
+       permission: GlobalMonsters.gm
+       permission-message: You don't have permission!
